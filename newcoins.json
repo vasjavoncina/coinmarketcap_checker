@@ -1,0 +1,740 @@
+{
+    "coini": [
+        {
+            "ime": "https://coinmarketcap.com/currencies/hellsing-inu/",
+            "link": "hellsing-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/dracarys/",
+            "link": "dracarys"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/floki-gold/",
+            "link": "floki-gold"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/angry-squid/",
+            "link": "angry-squid"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/mobius-money/",
+            "link": "mobius-money"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/cere-network/",
+            "link": "cere-network"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/koreadoge/",
+            "link": "koreadoge"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/omicron/",
+            "link": "omicron"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/algogems/",
+            "link": "algogems"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/binosaurs/",
+            "link": "binosaurs"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/bnb-shinobi/",
+            "link": "bnb-shinobi"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/diamond-dnd/",
+            "link": "diamond-dnd"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/binancedog/",
+            "link": "binancedog"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/buff-shiba-inu/",
+            "link": "buff-shiba-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/the-mars-shiba/",
+            "link": "the-mars-shiba"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/lorde-edge/",
+            "link": "lorde-edge"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/frieza-inu/",
+            "link": "frieza-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/madame-bunny/",
+            "link": "madame-bunny"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/ro-slayers/",
+            "link": "ro-slayers"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/shibalana/",
+            "link": "shibalana"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/polkainu/",
+            "link": "polkainu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/kaiba-inu/",
+            "link": "kaiba-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/follow-token/",
+            "link": "follow-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/poomoon/",
+            "link": "poomoon"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/anji/",
+            "link": "anji"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/doge-king/",
+            "link": "doge-king"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/hideous/",
+            "link": "hideous"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/hodler-heroes-nft/",
+            "link": "hodler-heroes-nft"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/fia-protocol/",
+            "link": "fia-protocol"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/baby-ryukyu-inu/",
+            "link": "baby-ryukyu-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/lemonn/",
+            "link": "lemonn"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/ethereum-name-service/",
+            "link": "ethereum-name-service"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/alien-shiba-inu/",
+            "link": "alien-shiba-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/meta-inu/",
+            "link": "meta-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/puppy-token/",
+            "link": "puppy-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/babyflokizilla/",
+            "link": "babyflokizilla"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/aquarius/",
+            "link": "aquarius"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/solcats/",
+            "link": "solcats"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/astrapad/",
+            "link": "astrapad"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/adventure-inu/",
+            "link": "adventure-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/shitzu-inu/",
+            "link": "shitzu-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/superalgos/",
+            "link": "superalgos"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/binom-protocol/",
+            "link": "binom-protocol"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/cryptodrop/",
+            "link": "cryptodrop"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/olympia/",
+            "link": "olympia"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/shibachu/",
+            "link": "shibachu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/upper-swiss-franc/",
+            "link": "upper-swiss-franc"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/metastar/",
+            "link": "metastar"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/lets-go-brandon/",
+            "link": "lets-go-brandon"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/zodiacs/",
+            "link": "zodiacs"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/metafinance/",
+            "link": "metafinance"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/sw-dao/",
+            "link": "sw-dao"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/d-skyscraper/",
+            "link": "d-skyscraper"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/leaguedao/",
+            "link": "leaguedao"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/vikings-inu/",
+            "link": "vikings-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/pulsar-token/",
+            "link": "pulsar-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/dynasty-global-investments/",
+            "link": "dynasty-global-investments"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/gain/",
+            "link": "gain"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/optimus-cat/",
+            "link": "optimus-cat"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/psyduck-inu/",
+            "link": "psyduck-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/moontimer/",
+            "link": "moontimer"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/meo-tools/",
+            "link": "meo-tools"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/euphoria-2/",
+            "link": "euphoria-2"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/unirealchain/",
+            "link": "unirealchain"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/bebop-inu/",
+            "link": "bebop-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/glass-coin/",
+            "link": "glass-coin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/redzilla/",
+            "link": "redzilla"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/matrix-protocol/",
+            "link": "matrix-protocol"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/pidao/",
+            "link": "pidao"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/mashima-inu/",
+            "link": "mashima-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/baby-santa-token/",
+            "link": "baby-santa-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/spookeletons-token/",
+            "link": "spookeletons-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/kingfund-finance/",
+            "link": "kingfund-finance"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/dappsy/",
+            "link": "dappsy"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/dogebnb-org/",
+            "link": "dogebnb-org"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/slittlerabbit/",
+            "link": "slittlerabbit"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/safety/",
+            "link": "safety"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/contracto/",
+            "link": "contracto"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/king-of-shiba/",
+            "link": "king-of-shiba"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/animeinu/",
+            "link": "animeinu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/wolfgirl/",
+            "link": "wolfgirl"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/inuyasha/",
+            "link": "inuyasha"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/martiandoge/",
+            "link": "martiandoge"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/shiba-maki/",
+            "link": "shiba-maki"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/collegecoinnetwork/",
+            "link": "collegecoinnetwork"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/metaaxis/",
+            "link": "metaaxis"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/succor-coin/",
+            "link": "succor-coin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/fudcoin-official/",
+            "link": "fudcoin-official"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/perpetuum/",
+            "link": "perpetuum"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/cate-shiba/",
+            "link": "cate-shiba"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/plugin/",
+            "link": "plugin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/the-cancoin/",
+            "link": "the-cancoin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/huskyx/",
+            "link": "huskyx"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/k-9-inu/",
+            "link": "k-9-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/wagmi/",
+            "link": "wagmi"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/melonx/",
+            "link": "melonx"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/balls/",
+            "link": "balls"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/gorilla-inu/",
+            "link": "gorilla-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/trister-world/",
+            "link": "trister-world"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/kala-finance/",
+            "link": "kala-finance"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/aidi-finance-bsc/",
+            "link": "aidi-finance-bsc"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/snake-token/",
+            "link": "snake-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/cashio-io/",
+            "link": "cashio-io"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/shibanaut-token/",
+            "link": "shibanaut-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/betswamp/",
+            "link": "betswamp"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/shining-crystal-shard/",
+            "link": "shining-crystal-shard"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/nora-token/",
+            "link": "nora-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/wealthsecrets/",
+            "link": "wealthsecrets"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/crypto-media-network/",
+            "link": "crypto-media-network"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/earthchain/",
+            "link": "earthchain"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/rokkit-fuel/",
+            "link": "rokkit-fuel"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/dogggo/",
+            "link": "dogggo"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/ixirswap/",
+            "link": "ixirswap"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/shibfuel/",
+            "link": "shibfuel"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/meta-floki-inu/",
+            "link": "meta-floki-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/viva-classic/",
+            "link": "viva-classic"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/amun-polygon-ecosystem-index/",
+            "link": "amun-polygon-ecosystem-index"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/uplink/",
+            "link": "uplink"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/batman/",
+            "link": "batman"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/stakeborg-dao/",
+            "link": "stakeborg-dao"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/sherlock-wallet/",
+            "link": "sherlock-wallet"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/nickel-token/",
+            "link": "nickel-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/wakanda-inu/",
+            "link": "wakanda-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/eagle-coin/",
+            "link": "eagle-coin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/n-word-pass/",
+            "link": "n-word-pass"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/toyshiba/",
+            "link": "toyshiba"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/raja-inu/",
+            "link": "raja-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/sonofshib/",
+            "link": "sonofshib"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/kittyshiba/",
+            "link": "kittyshiba"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/angle/",
+            "link": "angle"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/froggies/",
+            "link": "froggies"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/weenie-inu/",
+            "link": "weenie-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/bsc33dao/",
+            "link": "bsc33dao"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/walletnow/",
+            "link": "walletnow"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/kimetsu-inu/",
+            "link": "kimetsu-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/metadoge-token/",
+            "link": "metadoge-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/quizdrop/",
+            "link": "quizdrop"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/letsgobrandoncoin/",
+            "link": "letsgobrandoncoin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/the-whive-protocol/",
+            "link": "the-whive-protocol"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/panda-inu/",
+            "link": "panda-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/gm/",
+            "link": "gm"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/spywolf/",
+            "link": "spywolf"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/bakedcake/",
+            "link": "bakedcake"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/starlaunch/",
+            "link": "starlaunch"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/pulsepad/",
+            "link": "pulsepad"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/kawaii-kiba/",
+            "link": "kawaii-kiba"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/new-origin/",
+            "link": "new-origin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/fantomgo/",
+            "link": "fantomgo"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/foreverblast/",
+            "link": "foreverblast"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/stone-age-nft-marketplace/",
+            "link": "stone-age-nft-marketplace"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/superdoge/",
+            "link": "superdoge"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/coin-of-champions/",
+            "link": "coin-of-champions"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/la-casa-de-papel/",
+            "link": "la-casa-de-papel"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/gm-coin/",
+            "link": "gm-coin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/war-of-tribes/",
+            "link": "war-of-tribes"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/tag-protocol/",
+            "link": "tag-protocol"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/santa-inu/",
+            "link": "santa-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/evilsquidgame/",
+            "link": "evilsquidgame"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/astronos/",
+            "link": "astronos"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/superpoocoin/",
+            "link": "superpoocoin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/coinscope/",
+            "link": "coinscope"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/simply/",
+            "link": "simply"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/meta-grow/",
+            "link": "meta-grow"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/red-shiba-token/",
+            "link": "red-shiba-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/elpis-battle/",
+            "link": "elpis-battle"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/mars-space-x/",
+            "link": "mars-space-x"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/gold-fever/",
+            "link": "gold-fever"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/goofydoge/",
+            "link": "goofydoge"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/hughug-coin/",
+            "link": "hughug-coin"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/windfall-token/",
+            "link": "windfall-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/the-moon-shiba/",
+            "link": "the-moon-shiba"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/ether-terrestrial/",
+            "link": "ether-terrestrial"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/meta-shibaa/",
+            "link": "meta-shibaa"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/dok-token/",
+            "link": "dok-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/muskardashian/",
+            "link": "muskardashian"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/tipsy/",
+            "link": "tipsy"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/fortressdao/",
+            "link": "fortressdao"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/baby-yooshi/",
+            "link": "baby-yooshi"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/shinedao/",
+            "link": "shinedao"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/black-shiba-inu/",
+            "link": "black-shiba-inu"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/haven-token/",
+            "link": "haven-token"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/kanpeki/",
+            "link": "kanpeki"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/pissing-cat/",
+            "link": "pissing-cat"
+        },
+        {
+            "ime": "https://coinmarketcap.com/currencies/buff-samo/",
+            "link": "buff-samo"
+        }
+    ]
+}
